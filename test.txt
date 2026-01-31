@@ -2,4 +2,5 @@
 1. bu main branchga tegilshi
 
 2. bu test branchga tegishli
+3. yangi ozgarish main branchida
 
