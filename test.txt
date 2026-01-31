@@ -3,4 +3,4 @@
 
 2. bu test branchga tegishli
 3. yangi ozgarish main branchida
-
+4. test branchida 2 ozgarish
